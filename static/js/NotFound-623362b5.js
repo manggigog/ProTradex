@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./index-82940eff.js";const c={},n={class:"pt-20 text-center colors-1 text-[6rem] font-bold"};function r(s,a){return o(),t("div",n,"404")}const f=e(c,[["render",r],["__file","/Users/wangkeai/work/xueyan/\u5B98\u7F51/ProTradex_offical/src/components/NotFound.vue"]]);export{f as default};
